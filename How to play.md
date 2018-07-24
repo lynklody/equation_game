@@ -2,24 +2,24 @@
 The user needs to give 7 numbers in one row. The program will mix the first six numbers in that particular order with different combinations of the four basic operands (+, -, *, /). If the expression created is evaluated to be equal to the 7th number given, the expression will be printed out.
 
 
-# example I/O:
-input: 
-" 10 1 25 50 75 100 813"
+# example I/O:<br/>
+input: <br/>
+" 10 1 25 50 75 100 813"<br/>
 
-output: 
-" numbers are 10 1 25 50 75 100 
-the expected result is 813
-25 75 10 - * 1 + 100 50 / / 
-25 75 10 - * 1 + 50 * 100 / 
-50 75 10 - 25 * 1 + * 100 / 
-50 25 75 10 - * 1 + * 100 / 
-25 75 10 - * 1 + 50 * 100 / 
-25 75 10 - * 1 + 100 50 / / 
-25 75 10 - * 1 + 50 * 100 / 
-1 75 10 - 25 * + 100 50 / / 
-25 75 10 - * 1 + 100 50 / / 
-The number of expressions tried: 27746268
-The number of solutions found: 9 "
+output: <br/>
+" numbers are 10 1 25 50 75 100 <br/>
+the expected result is 813<br/>
+25 75 10 - * 1 + 100 50 / / <br/>
+25 75 10 - * 1 + 50 * 100 / <br/>
+50 75 10 - 25 * 1 + * 100 / <br/>
+50 25 75 10 - * 1 + * 100 / <br/>
+25 75 10 - * 1 + 50 * 100 / <br/>
+25 75 10 - * 1 + 100 50 / / <br/>
+25 75 10 - * 1 + 50 * 100 / <br/>
+1 75 10 - 25 * + 100 50 / / <br/>
+25 75 10 - * 1 + 100 50 / / <br/>
+The number of expressions tried: 27746268<br/>
+The number of solutions found: 9 "<br/>
 
 
 # Main method description:
