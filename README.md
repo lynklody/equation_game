@@ -1,5 +1,5 @@
 # An equation game
-The user needs to give 7 numbers in one row of input. The program will mix the first six numbers in that particular order with different combinations of the four basic operands (+, -, *, /). If the expression created is evaluated to be equal to the 7th number given, the expression will be printed out. The program has a 30-second time limit. After running for 30 sec, it will automatically stop.
+The user needs to give 7 numbers in one row of input. The program will mix the first six numbers in that particular order with different combinations of the four basic operands (+, -, *, /). If the post-fix expression created is evaluated to be equal to the 7th number on the row of input, the post-fix expression will be printed out. The program has a 30-second time limit. After running for 30 sec, it will automatically stop.
 
 
 <b>Example I/O:</b><br/>
