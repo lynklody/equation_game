@@ -6,7 +6,7 @@ The user needs to give 7 numbers in one row of input. The program will mix the f
 INPUT: <br/>
 " 10 1 25 50 75 100 813"<br/>
 
-OUTPUTo: <br/>
+OUTPUT: <br/>
 " numbers are 10 1 25 50 75 100 <br/>
 the expected result is 813<br/>
 25 75 10 - * 1 + 100 50 / / <br/>
