@@ -3,6 +3,7 @@ The user needs to give 7 numbers in one row of input. The program will mix the f
 
 
 <b>Example I/O:</b><br/>
+
 INPUT: <br/>
 " 10 1 25 50 75 100 813"<br/>
 
